@@ -171,6 +171,8 @@ jQuery.extend( jQuery.easing,
 	}
 });
 
+export default easing;
+
 /*
  *
  * TERMS OF USE - EASING EQUATIONS
